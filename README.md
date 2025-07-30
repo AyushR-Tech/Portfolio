@@ -44,4 +44,4 @@ npm run dev
 Feel free to contact me:
 
 - Email: ayushrewatkar011@gmail.com  
-- LinkedIn: [linkedin.com/in/AyushRewatkar](www.linkedin.com/in/ayush-rewatkar-246b8826b)  
+- LinkedIn: [[linkedin.com/in/AyushRewatkar](https://www.linkedin.com/in/ayush-rewatkar-246b8826b/)] 
