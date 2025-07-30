@@ -19,7 +19,7 @@ A professional and responsive portfolio website to showcase your projects, skill
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone [https://github.com/your-username/portfolio.git](https://github.com/AyushR-Tech/Portfolio.git)
 cd portfolio
 
 # Install dependencies
